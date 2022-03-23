@@ -26,6 +26,7 @@ namespace sprint
 
             Console.WriteLine("VALOR A PAGAR: R$ " + ((unidades1 * preco1) + (unidades2 * preco2)).ToString("0.00")); 
 
+
         }
     }
 }
