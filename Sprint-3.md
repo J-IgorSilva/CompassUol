@@ -1,4 +1,4 @@
-# Sprint 3
+# Resolução da Sprint 3
 
 ## Atividade 1
 
