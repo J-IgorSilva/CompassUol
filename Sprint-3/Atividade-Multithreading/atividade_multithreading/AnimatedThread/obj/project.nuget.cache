@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mzQQwA2pz0tqLZcP+TD17Sf3zjN6hs5OFL2zNRyg4B6/xmriTPAlRGcs8TQF6+DwL0j65Z9RIC2FlcTCH6g2Kg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IgorxDiana\\Desktop\\atividade_multithreading\\atividade_multithreading\\AnimatedThread\\AnimatedThread.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IgorxDiana\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

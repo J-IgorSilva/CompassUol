@@ -1,0 +1,2044 @@
+﻿[
+  {
+    "PersonName": "Gary Ortiz",
+    "PersonAge": 50,
+    "FavoriteSong": "Free Fallin'",
+    "FavoriteSongArtist": "Tom Petty",
+    "FavoriteSongYear": 1989,
+    "OtherSongs": [
+      "King of Spain",
+      "New Realization",
+      "American Girl",
+      "American Music",
+      "Flapper Girl",
+      "High and Dry",
+      "Danny Boy",
+      "Moonshadow",
+      "Little Talks",
+      "Party in the USA",
+      "Summer of '69",
+      "The Mother We Share",
+      "The Weight"
+    ],
+    "ArtistSongs": [
+      {
+        "Artist": {
+          "Id": 1,
+          "Name": "The Tallest Man on Earth"
+        },
+        "Songs": [
+          {
+            "Id": 1,
+            "Name": "1904",
+            "Year": 2012,
+            "ArtistId": 1
+          },
+          {
+            "Id": 2,
+            "Name": "King of Spain",
+            "Year": 2010,
+            "ArtistId": 1
+          },
+          {
+            "Id": 3,
+            "Name": "Wind and Walls",
+            "Year": 2012,
+            "ArtistId": 1
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 3,
+          "Name": "Sublime"
+        },
+        "Songs": [
+          {
+            "Id": 7,
+            "Name": "40oz to Freedom",
+            "Year": 1996,
+            "ArtistId": 3
+          },
+          {
+            "Id": 8,
+            "Name": "Badfish",
+            "Year": 1996,
+            "ArtistId": 3
+          },
+          {
+            "Id": 9,
+            "Name": "New Realization",
+            "Year": 1996,
+            "ArtistId": 3
+          },
+          {
+            "Id": 10,
+            "Name": "Rivers of Babylon",
+            "Year": 1998,
+            "ArtistId": 3
+          },
+          {
+            "Id": 11,
+            "Name": "What I Got",
+            "Year": 1996,
+            "ArtistId": 3
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 4,
+          "Name": "Tom Petty"
+        },
+        "Songs": [
+          {
+            "Id": 12,
+            "Name": "American Girl",
+            "Year": 1977,
+            "ArtistId": 4
+          },
+          {
+            "Id": 13,
+            "Name": "Free Fallin'",
+            "Year": 1989,
+            "ArtistId": 4
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 5,
+          "Name": "Violent Femmes"
+        },
+        "Songs": [
+          {
+            "Id": 14,
+            "Name": "American Music",
+            "Year": 1991,
+            "ArtistId": 5
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 10,
+          "Name": "The Lumineers"
+        },
+        "Songs": [
+          {
+            "Id": 36,
+            "Name": "Big Parade",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 37,
+            "Name": "Classy Girls",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 38,
+            "Name": "Dead Sea",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 39,
+            "Name": "Flapper Girl",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 40,
+            "Name": "Flowers in Your Hair",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 41,
+            "Name": "Ho Hey",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 42,
+            "Name": "Stubborn Love",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 43,
+            "Name": "Submarines",
+            "Year": 2012,
+            "ArtistId": 10
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 15,
+          "Name": "Radiohead"
+        },
+        "Songs": [
+          {
+            "Id": 50,
+            "Name": "Creep",
+            "Year": 1993,
+            "ArtistId": 15
+          },
+          {
+            "Id": 51,
+            "Name": "High and Dry",
+            "Year": 1995,
+            "ArtistId": 15
+          },
+          {
+            "Id": 52,
+            "Name": "Karma Police",
+            "Year": 1997,
+            "ArtistId": 15
+          },
+          {
+            "Id": 53,
+            "Name": "No Surprises",
+            "Year": 1997,
+            "ArtistId": 15
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 16,
+          "Name": "Johnny Cash"
+        },
+        "Songs": [
+          {
+            "Id": 54,
+            "Name": "Danny Boy",
+            "Year": 2002,
+            "ArtistId": 16
+          },
+          {
+            "Id": 55,
+            "Name": "Folsom Prison Blues",
+            "Year": 1957,
+            "ArtistId": 16
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 23,
+          "Name": "Cat Stevens"
+        },
+        "Songs": [
+          {
+            "Id": 67,
+            "Name": "Father and Son",
+            "Year": 1970,
+            "ArtistId": 23
+          },
+          {
+            "Id": 68,
+            "Name": "Moonshadow",
+            "Year": 1971,
+            "ArtistId": 23
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 41,
+          "Name": "Of Monsters and Men"
+        },
+        "Songs": [
+          {
+            "Id": 98,
+            "Name": "Little Talks",
+            "Year": 2012,
+            "ArtistId": 41
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 47,
+          "Name": "Miley Cyrus"
+        },
+        "Songs": [
+          {
+            "Id": 104,
+            "Name": "Party in the USA",
+            "Year": 2009,
+            "ArtistId": 47
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 56,
+          "Name": "Bryan Adams"
+        },
+        "Songs": [
+          {
+            "Id": 116,
+            "Name": "Summer of '69",
+            "Year": 1984,
+            "ArtistId": 56
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 60,
+          "Name": "Chvrches"
+        },
+        "Songs": [
+          {
+            "Id": 120,
+            "Name": "The Mother We Share",
+            "Year": 2013,
+            "ArtistId": 60
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 61,
+          "Name": "The Band"
+        },
+        "Songs": [
+          {
+            "Id": 121,
+            "Name": "The Weight",
+            "Year": 1968,
+            "ArtistId": 61
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "PersonName": "Albert Williamson",
+    "PersonAge": 33,
+    "FavoriteSong": "Father and Son",
+    "FavoriteSongArtist": "Cat Stevens",
+    "FavoriteSongYear": 1970,
+    "OtherSongs": [
+      "Badfish",
+      "Get Well Cards",
+      "Doomsday",
+      "Hotel Yorba",
+      "Little Talks",
+      "With a Little Help From My Friends"
+    ],
+    "ArtistSongs": [
+      {
+        "Artist": {
+          "Id": 3,
+          "Name": "Sublime"
+        },
+        "Songs": [
+          {
+            "Id": 7,
+            "Name": "40oz to Freedom",
+            "Year": 1996,
+            "ArtistId": 3
+          },
+          {
+            "Id": 8,
+            "Name": "Badfish",
+            "Year": 1996,
+            "ArtistId": 3
+          },
+          {
+            "Id": 9,
+            "Name": "New Realization",
+            "Year": 1996,
+            "ArtistId": 3
+          },
+          {
+            "Id": 10,
+            "Name": "Rivers of Babylon",
+            "Year": 1998,
+            "ArtistId": 3
+          },
+          {
+            "Id": 11,
+            "Name": "What I Got",
+            "Year": 1996,
+            "ArtistId": 3
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 11,
+          "Name": "Conor Oberst"
+        },
+        "Songs": [
+          {
+            "Id": 44,
+            "Name": "Cape Canaveral",
+            "Year": 2008,
+            "ArtistId": 11
+          },
+          {
+            "Id": 45,
+            "Name": "Get Well Cards",
+            "Year": 2008,
+            "ArtistId": 11
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 21,
+          "Name": "Elvis Perkins"
+        },
+        "Songs": [
+          {
+            "Id": 62,
+            "Name": "Doomsday",
+            "Year": 2009,
+            "ArtistId": 21
+          },
+          {
+            "Id": 63,
+            "Name": "Send My Fond Regards to Lonelyville",
+            "Year": 2009,
+            "ArtistId": 21
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 34,
+          "Name": "The White Stripes"
+        },
+        "Songs": [
+          {
+            "Id": 87,
+            "Name": "Hotel Yorba",
+            "Year": 2001,
+            "ArtistId": 34
+          },
+          {
+            "Id": 88,
+            "Name": "We're Going To Be Friends",
+            "Year": 2001,
+            "ArtistId": 34
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 41,
+          "Name": "Of Monsters and Men"
+        },
+        "Songs": [
+          {
+            "Id": 98,
+            "Name": "Little Talks",
+            "Year": 2012,
+            "ArtistId": 41
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 66,
+          "Name": "The Beatles"
+        },
+        "Songs": [
+          {
+            "Id": 126,
+            "Name": "With a Little Help From My Friends",
+            "Year": 1967,
+            "ArtistId": 66
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "PersonName": "Mildred Fuller",
+    "PersonAge": 56,
+    "FavoriteSong": "The Mother We Share",
+    "FavoriteSongArtist": "Chvrches",
+    "FavoriteSongYear": 2013,
+    "OtherSongs": [
+      "#41",
+      "Free Fallin'",
+      "Rodeo Clowns",
+      "No Surprises",
+      "You Belong With Me"
+    ],
+    "ArtistSongs": [
+      {
+        "Artist": {
+          "Id": 2,
+          "Name": "Dave Matthews"
+        },
+        "Songs": [
+          {
+            "Id": 4,
+            "Name": "#40",
+            "Year": 1999,
+            "ArtistId": 2
+          },
+          {
+            "Id": 5,
+            "Name": "#41",
+            "Year": 1996,
+            "ArtistId": 2
+          },
+          {
+            "Id": 6,
+            "Name": "Stay or Leave",
+            "Year": 2003,
+            "ArtistId": 2
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 4,
+          "Name": "Tom Petty"
+        },
+        "Songs": [
+          {
+            "Id": 12,
+            "Name": "American Girl",
+            "Year": 1977,
+            "ArtistId": 4
+          },
+          {
+            "Id": 13,
+            "Name": "Free Fallin'",
+            "Year": 1989,
+            "ArtistId": 4
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 9,
+          "Name": "Jack Johnson"
+        },
+        "Songs": [
+          {
+            "Id": 29,
+            "Name": "Banana Pancakes",
+            "Year": 2005,
+            "ArtistId": 9
+          },
+          {
+            "Id": 30,
+            "Name": "Do You Remember",
+            "Year": 2005,
+            "ArtistId": 9
+          },
+          {
+            "Id": 31,
+            "Name": "Drink the Water",
+            "Year": 2001,
+            "ArtistId": 9
+          },
+          {
+            "Id": 32,
+            "Name": "Fall Line",
+            "Year": 2003,
+            "ArtistId": 9
+          },
+          {
+            "Id": 33,
+            "Name": "Flake",
+            "Year": 2001,
+            "ArtistId": 9
+          },
+          {
+            "Id": 34,
+            "Name": "Mudfootball",
+            "Year": 2001,
+            "ArtistId": 9
+          },
+          {
+            "Id": 35,
+            "Name": "Rodeo Clowns",
+            "Year": 2003,
+            "ArtistId": 9
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 15,
+          "Name": "Radiohead"
+        },
+        "Songs": [
+          {
+            "Id": 50,
+            "Name": "Creep",
+            "Year": 1993,
+            "ArtistId": 15
+          },
+          {
+            "Id": 51,
+            "Name": "High and Dry",
+            "Year": 1995,
+            "ArtistId": 15
+          },
+          {
+            "Id": 52,
+            "Name": "Karma Police",
+            "Year": 1997,
+            "ArtistId": 15
+          },
+          {
+            "Id": 53,
+            "Name": "No Surprises",
+            "Year": 1997,
+            "ArtistId": 15
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 36,
+          "Name": "Taylor Swift"
+        },
+        "Songs": [
+          {
+            "Id": 90,
+            "Name": "I Knew You Were Trouble",
+            "Year": 2012,
+            "ArtistId": 36
+          },
+          {
+            "Id": 91,
+            "Name": "Love Story",
+            "Year": 2008,
+            "ArtistId": 36
+          },
+          {
+            "Id": 92,
+            "Name": "We Are Never Ever Getting Back Together",
+            "Year": 2012,
+            "ArtistId": 36
+          },
+          {
+            "Id": 93,
+            "Name": "You Belong With Me",
+            "Year": 2008,
+            "ArtistId": 36
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "PersonName": "Russell Robinson",
+    "PersonAge": 44,
+    "FavoriteSong": "Somewhere Only We Know",
+    "FavoriteSongArtist": "Keane",
+    "FavoriteSongYear": 2004,
+    "OtherSongs": [
+      "New Realization",
+      "Submarines",
+      "Love Story",
+      "Jack & Diane"
+    ],
+    "ArtistSongs": [
+      {
+        "Artist": {
+          "Id": 3,
+          "Name": "Sublime"
+        },
+        "Songs": [
+          {
+            "Id": 7,
+            "Name": "40oz to Freedom",
+            "Year": 1996,
+            "ArtistId": 3
+          },
+          {
+            "Id": 8,
+            "Name": "Badfish",
+            "Year": 1996,
+            "ArtistId": 3
+          },
+          {
+            "Id": 9,
+            "Name": "New Realization",
+            "Year": 1996,
+            "ArtistId": 3
+          },
+          {
+            "Id": 10,
+            "Name": "Rivers of Babylon",
+            "Year": 1998,
+            "ArtistId": 3
+          },
+          {
+            "Id": 11,
+            "Name": "What I Got",
+            "Year": 1996,
+            "ArtistId": 3
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 10,
+          "Name": "The Lumineers"
+        },
+        "Songs": [
+          {
+            "Id": 36,
+            "Name": "Big Parade",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 37,
+            "Name": "Classy Girls",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 38,
+            "Name": "Dead Sea",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 39,
+            "Name": "Flapper Girl",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 40,
+            "Name": "Flowers in Your Hair",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 41,
+            "Name": "Ho Hey",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 42,
+            "Name": "Stubborn Love",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 43,
+            "Name": "Submarines",
+            "Year": 2012,
+            "ArtistId": 10
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 36,
+          "Name": "Taylor Swift"
+        },
+        "Songs": [
+          {
+            "Id": 90,
+            "Name": "I Knew You Were Trouble",
+            "Year": 2012,
+            "ArtistId": 36
+          },
+          {
+            "Id": 91,
+            "Name": "Love Story",
+            "Year": 2008,
+            "ArtistId": 36
+          },
+          {
+            "Id": 92,
+            "Name": "We Are Never Ever Getting Back Together",
+            "Year": 2012,
+            "ArtistId": 36
+          },
+          {
+            "Id": 93,
+            "Name": "You Belong With Me",
+            "Year": 2008,
+            "ArtistId": 36
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 39,
+          "Name": "John Mellencamp"
+        },
+        "Songs": [
+          {
+            "Id": 96,
+            "Name": "Jack & Diane",
+            "Year": 1982,
+            "ArtistId": 39
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "PersonName": "Laura Harper",
+    "PersonAge": 36,
+    "FavoriteSong": "I'm Writing a Novel",
+    "FavoriteSongArtist": "Father John Misty",
+    "FavoriteSongYear": 2012,
+    "OtherSongs": [
+      "Badfish",
+      "Flapper Girl",
+      "Send My Fond Regards to Lonelyville"
+    ],
+    "ArtistSongs": [
+      {
+        "Artist": {
+          "Id": 3,
+          "Name": "Sublime"
+        },
+        "Songs": [
+          {
+            "Id": 7,
+            "Name": "40oz to Freedom",
+            "Year": 1996,
+            "ArtistId": 3
+          },
+          {
+            "Id": 8,
+            "Name": "Badfish",
+            "Year": 1996,
+            "ArtistId": 3
+          },
+          {
+            "Id": 9,
+            "Name": "New Realization",
+            "Year": 1996,
+            "ArtistId": 3
+          },
+          {
+            "Id": 10,
+            "Name": "Rivers of Babylon",
+            "Year": 1998,
+            "ArtistId": 3
+          },
+          {
+            "Id": 11,
+            "Name": "What I Got",
+            "Year": 1996,
+            "ArtistId": 3
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 10,
+          "Name": "The Lumineers"
+        },
+        "Songs": [
+          {
+            "Id": 36,
+            "Name": "Big Parade",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 37,
+            "Name": "Classy Girls",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 38,
+            "Name": "Dead Sea",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 39,
+            "Name": "Flapper Girl",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 40,
+            "Name": "Flowers in Your Hair",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 41,
+            "Name": "Ho Hey",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 42,
+            "Name": "Stubborn Love",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 43,
+            "Name": "Submarines",
+            "Year": 2012,
+            "ArtistId": 10
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 21,
+          "Name": "Elvis Perkins"
+        },
+        "Songs": [
+          {
+            "Id": 62,
+            "Name": "Doomsday",
+            "Year": 2009,
+            "ArtistId": 21
+          },
+          {
+            "Id": 63,
+            "Name": "Send My Fond Regards to Lonelyville",
+            "Year": 2009,
+            "ArtistId": 21
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "PersonName": "Larry Sanders",
+    "PersonAge": 54,
+    "FavoriteSong": "Darkness Between the Fireflies",
+    "FavoriteSongArtist": "Mason Jennings",
+    "FavoriteSongYear": 1997,
+    "OtherSongs": [
+      "Barefoot Children",
+      "Distantly in Love",
+      "Mudfootball",
+      "Big Parade",
+      "Sugar Mountain",
+      "Hey Jealousy",
+      "I Knew You Were Trouble",
+      "Island in the Sun",
+      "Lola"
+    ],
+    "ArtistSongs": [
+      {
+        "Artist": {
+          "Id": 8,
+          "Name": "Jimmy Buffett"
+        },
+        "Songs": [
+          {
+            "Id": 18,
+            "Name": "A Sailor's Christmas",
+            "Year": 1996,
+            "ArtistId": 8
+          },
+          {
+            "Id": 19,
+            "Name": "Barefoot Children",
+            "Year": 1995,
+            "ArtistId": 8
+          },
+          {
+            "Id": 20,
+            "Name": "Changes in Latitudes, Changes in Attitudes",
+            "Year": 1977,
+            "ArtistId": 8
+          },
+          {
+            "Id": 21,
+            "Name": "Distantly in Love",
+            "Year": 1983,
+            "ArtistId": 8
+          },
+          {
+            "Id": 22,
+            "Name": "Honey Do",
+            "Year": 1983,
+            "ArtistId": 8
+          },
+          {
+            "Id": 23,
+            "Name": "Love in the Library",
+            "Year": 1994,
+            "ArtistId": 8
+          },
+          {
+            "Id": 24,
+            "Name": "Margaritaville",
+            "Year": 1977,
+            "ArtistId": 8
+          },
+          {
+            "Id": 25,
+            "Name": "Migration",
+            "Year": 1974,
+            "ArtistId": 8
+          },
+          {
+            "Id": 26,
+            "Name": "The Weather is Here, Wish You Were Beautiful",
+            "Year": 1981,
+            "ArtistId": 8
+          },
+          {
+            "Id": 27,
+            "Name": "Tin Cup Chalice",
+            "Year": 1974,
+            "ArtistId": 8
+          },
+          {
+            "Id": 28,
+            "Name": "Trying to Reason with Hurricane Season",
+            "Year": 1974,
+            "ArtistId": 8
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 9,
+          "Name": "Jack Johnson"
+        },
+        "Songs": [
+          {
+            "Id": 29,
+            "Name": "Banana Pancakes",
+            "Year": 2005,
+            "ArtistId": 9
+          },
+          {
+            "Id": 30,
+            "Name": "Do You Remember",
+            "Year": 2005,
+            "ArtistId": 9
+          },
+          {
+            "Id": 31,
+            "Name": "Drink the Water",
+            "Year": 2001,
+            "ArtistId": 9
+          },
+          {
+            "Id": 32,
+            "Name": "Fall Line",
+            "Year": 2003,
+            "ArtistId": 9
+          },
+          {
+            "Id": 33,
+            "Name": "Flake",
+            "Year": 2001,
+            "ArtistId": 9
+          },
+          {
+            "Id": 34,
+            "Name": "Mudfootball",
+            "Year": 2001,
+            "ArtistId": 9
+          },
+          {
+            "Id": 35,
+            "Name": "Rodeo Clowns",
+            "Year": 2003,
+            "ArtistId": 9
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 10,
+          "Name": "The Lumineers"
+        },
+        "Songs": [
+          {
+            "Id": 36,
+            "Name": "Big Parade",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 37,
+            "Name": "Classy Girls",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 38,
+            "Name": "Dead Sea",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 39,
+            "Name": "Flapper Girl",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 40,
+            "Name": "Flowers in Your Hair",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 41,
+            "Name": "Ho Hey",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 42,
+            "Name": "Stubborn Love",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 43,
+            "Name": "Submarines",
+            "Year": 2012,
+            "ArtistId": 10
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 27,
+          "Name": "Neil Young"
+        },
+        "Songs": [
+          {
+            "Id": 74,
+            "Name": "Harvest",
+            "Year": 1972,
+            "ArtistId": 27
+          },
+          {
+            "Id": 75,
+            "Name": "Heart of Gold",
+            "Year": 1972,
+            "ArtistId": 27
+          },
+          {
+            "Id": 76,
+            "Name": "Out on the Weekend",
+            "Year": 1972,
+            "ArtistId": 27
+          },
+          {
+            "Id": 77,
+            "Name": "Sugar Mountain",
+            "Year": 1977,
+            "ArtistId": 27
+          },
+          {
+            "Id": 78,
+            "Name": "The Needle and the Damage Done",
+            "Year": 1972,
+            "ArtistId": 27
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 29,
+          "Name": "Gin Blossoms"
+        },
+        "Songs": [
+          {
+            "Id": 80,
+            "Name": "Hey Jealousy",
+            "Year": 1992,
+            "ArtistId": 29
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 36,
+          "Name": "Taylor Swift"
+        },
+        "Songs": [
+          {
+            "Id": 90,
+            "Name": "I Knew You Were Trouble",
+            "Year": 2012,
+            "ArtistId": 36
+          },
+          {
+            "Id": 91,
+            "Name": "Love Story",
+            "Year": 2008,
+            "ArtistId": 36
+          },
+          {
+            "Id": 92,
+            "Name": "We Are Never Ever Getting Back Together",
+            "Year": 2012,
+            "ArtistId": 36
+          },
+          {
+            "Id": 93,
+            "Name": "You Belong With Me",
+            "Year": 2008,
+            "ArtistId": 36
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 37,
+          "Name": "Weezer"
+        },
+        "Songs": [
+          {
+            "Id": 94,
+            "Name": "Island in the Sun",
+            "Year": 2001,
+            "ArtistId": 37
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 43,
+          "Name": "The Kinks"
+        },
+        "Songs": [
+          {
+            "Id": 100,
+            "Name": "Lola",
+            "Year": 1970,
+            "ArtistId": 43
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "PersonName": "Michael Rice",
+    "PersonAge": 22,
+    "FavoriteSong": "Flapper Girl",
+    "FavoriteSongArtist": "The Lumineers",
+    "FavoriteSongYear": 2012,
+    "OtherSongs": [
+      "Stay or Leave",
+      "What I Got",
+      "Stubborn Love",
+      "Carry On",
+      "Nothing",
+      "Out on the Weekend",
+      "Hey Jealousy",
+      "Home",
+      "We're Going To Be Friends",
+      "I Feel Home",
+      "The Man in Me",
+      "The Drugs Don't Work"
+    ],
+    "ArtistSongs": [
+      {
+        "Artist": {
+          "Id": 2,
+          "Name": "Dave Matthews"
+        },
+        "Songs": [
+          {
+            "Id": 4,
+            "Name": "#40",
+            "Year": 1999,
+            "ArtistId": 2
+          },
+          {
+            "Id": 5,
+            "Name": "#41",
+            "Year": 1996,
+            "ArtistId": 2
+          },
+          {
+            "Id": 6,
+            "Name": "Stay or Leave",
+            "Year": 2003,
+            "ArtistId": 2
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 3,
+          "Name": "Sublime"
+        },
+        "Songs": [
+          {
+            "Id": 7,
+            "Name": "40oz to Freedom",
+            "Year": 1996,
+            "ArtistId": 3
+          },
+          {
+            "Id": 8,
+            "Name": "Badfish",
+            "Year": 1996,
+            "ArtistId": 3
+          },
+          {
+            "Id": 9,
+            "Name": "New Realization",
+            "Year": 1996,
+            "ArtistId": 3
+          },
+          {
+            "Id": 10,
+            "Name": "Rivers of Babylon",
+            "Year": 1998,
+            "ArtistId": 3
+          },
+          {
+            "Id": 11,
+            "Name": "What I Got",
+            "Year": 1996,
+            "ArtistId": 3
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 10,
+          "Name": "The Lumineers"
+        },
+        "Songs": [
+          {
+            "Id": 36,
+            "Name": "Big Parade",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 37,
+            "Name": "Classy Girls",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 38,
+            "Name": "Dead Sea",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 39,
+            "Name": "Flapper Girl",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 40,
+            "Name": "Flowers in Your Hair",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 41,
+            "Name": "Ho Hey",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 42,
+            "Name": "Stubborn Love",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 43,
+            "Name": "Submarines",
+            "Year": 2012,
+            "ArtistId": 10
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 12,
+          "Name": "fun."
+        },
+        "Songs": [
+          {
+            "Id": 46,
+            "Name": "Carry On",
+            "Year": 2012,
+            "ArtistId": 12
+          },
+          {
+            "Id": 47,
+            "Name": "Some Nights",
+            "Year": 2012,
+            "ArtistId": 12
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 17,
+          "Name": "Mason Jennings"
+        },
+        "Songs": [
+          {
+            "Id": 56,
+            "Name": "Darkness Between the Fireflies",
+            "Year": 1997,
+            "ArtistId": 17
+          },
+          {
+            "Id": 57,
+            "Name": "Hospitals and Jails",
+            "Year": 2002,
+            "ArtistId": 17
+          },
+          {
+            "Id": 58,
+            "Name": "Nothing",
+            "Year": 1997,
+            "ArtistId": 17
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 27,
+          "Name": "Neil Young"
+        },
+        "Songs": [
+          {
+            "Id": 74,
+            "Name": "Harvest",
+            "Year": 1972,
+            "ArtistId": 27
+          },
+          {
+            "Id": 75,
+            "Name": "Heart of Gold",
+            "Year": 1972,
+            "ArtistId": 27
+          },
+          {
+            "Id": 76,
+            "Name": "Out on the Weekend",
+            "Year": 1972,
+            "ArtistId": 27
+          },
+          {
+            "Id": 77,
+            "Name": "Sugar Mountain",
+            "Year": 1977,
+            "ArtistId": 27
+          },
+          {
+            "Id": 78,
+            "Name": "The Needle and the Damage Done",
+            "Year": 1972,
+            "ArtistId": 27
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 29,
+          "Name": "Gin Blossoms"
+        },
+        "Songs": [
+          {
+            "Id": 80,
+            "Name": "Hey Jealousy",
+            "Year": 1992,
+            "ArtistId": 29
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 32,
+          "Name": "Edward Sharpe & The Magnetic Zeros"
+        },
+        "Songs": [
+          {
+            "Id": 85,
+            "Name": "Home",
+            "Year": 2009,
+            "ArtistId": 32
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 34,
+          "Name": "The White Stripes"
+        },
+        "Songs": [
+          {
+            "Id": 87,
+            "Name": "Hotel Yorba",
+            "Year": 2001,
+            "ArtistId": 34
+          },
+          {
+            "Id": 88,
+            "Name": "We're Going To Be Friends",
+            "Year": 2001,
+            "ArtistId": 34
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 35,
+          "Name": "OAR"
+        },
+        "Songs": [
+          {
+            "Id": 89,
+            "Name": "I Feel Home",
+            "Year": 1999,
+            "ArtistId": 35
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 52,
+          "Name": "Bob Dylan"
+        },
+        "Songs": [
+          {
+            "Id": 110,
+            "Name": "Shelter from the Storm",
+            "Year": 1975,
+            "ArtistId": 52
+          },
+          {
+            "Id": 111,
+            "Name": "Tangled Up in Blue",
+            "Year": 1975,
+            "ArtistId": 52
+          },
+          {
+            "Id": 112,
+            "Name": "The Man in Me",
+            "Year": 1970,
+            "ArtistId": 52
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 58,
+          "Name": "Ben Harper"
+        },
+        "Songs": [
+          {
+            "Id": 118,
+            "Name": "The Drugs Don't Work",
+            "Year": 2001,
+            "ArtistId": 58
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "PersonName": "Sara Harris",
+    "PersonAge": 19,
+    "FavoriteSong": "No Surprises",
+    "FavoriteSongArtist": "Radiohead",
+    "FavoriteSongYear": 1997,
+    "OtherSongs": [
+      "Trying to Reason with Hurricane Season",
+      "Doomsday",
+      "Live and Die"
+    ],
+    "ArtistSongs": [
+      {
+        "Artist": {
+          "Id": 8,
+          "Name": "Jimmy Buffett"
+        },
+        "Songs": [
+          {
+            "Id": 18,
+            "Name": "A Sailor's Christmas",
+            "Year": 1996,
+            "ArtistId": 8
+          },
+          {
+            "Id": 19,
+            "Name": "Barefoot Children",
+            "Year": 1995,
+            "ArtistId": 8
+          },
+          {
+            "Id": 20,
+            "Name": "Changes in Latitudes, Changes in Attitudes",
+            "Year": 1977,
+            "ArtistId": 8
+          },
+          {
+            "Id": 21,
+            "Name": "Distantly in Love",
+            "Year": 1983,
+            "ArtistId": 8
+          },
+          {
+            "Id": 22,
+            "Name": "Honey Do",
+            "Year": 1983,
+            "ArtistId": 8
+          },
+          {
+            "Id": 23,
+            "Name": "Love in the Library",
+            "Year": 1994,
+            "ArtistId": 8
+          },
+          {
+            "Id": 24,
+            "Name": "Margaritaville",
+            "Year": 1977,
+            "ArtistId": 8
+          },
+          {
+            "Id": 25,
+            "Name": "Migration",
+            "Year": 1974,
+            "ArtistId": 8
+          },
+          {
+            "Id": 26,
+            "Name": "The Weather is Here, Wish You Were Beautiful",
+            "Year": 1981,
+            "ArtistId": 8
+          },
+          {
+            "Id": 27,
+            "Name": "Tin Cup Chalice",
+            "Year": 1974,
+            "ArtistId": 8
+          },
+          {
+            "Id": 28,
+            "Name": "Trying to Reason with Hurricane Season",
+            "Year": 1974,
+            "ArtistId": 8
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 21,
+          "Name": "Elvis Perkins"
+        },
+        "Songs": [
+          {
+            "Id": 62,
+            "Name": "Doomsday",
+            "Year": 2009,
+            "ArtistId": 21
+          },
+          {
+            "Id": 63,
+            "Name": "Send My Fond Regards to Lonelyville",
+            "Year": 2009,
+            "ArtistId": 21
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 42,
+          "Name": "The Avett Brothers"
+        },
+        "Songs": [
+          {
+            "Id": 99,
+            "Name": "Live and Die",
+            "Year": 2012,
+            "ArtistId": 42
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "PersonName": "Phyllis Webb",
+    "PersonAge": 44,
+    "FavoriteSong": "Get Well Cards",
+    "FavoriteSongArtist": "Conor Oberst",
+    "FavoriteSongYear": 2008,
+    "OtherSongs": [
+      "Stay or Leave",
+      "Trying to Reason with Hurricane Season",
+      "Big Parade",
+      "Classy Girls",
+      "Flowers in Your Hair",
+      "We Are Never Ever Getting Back Together",
+      "I Won't Give Up",
+      "The Man in Me",
+      "Space Oddity",
+      "Summer of '69"
+    ],
+    "ArtistSongs": [
+      {
+        "Artist": {
+          "Id": 2,
+          "Name": "Dave Matthews"
+        },
+        "Songs": [
+          {
+            "Id": 4,
+            "Name": "#40",
+            "Year": 1999,
+            "ArtistId": 2
+          },
+          {
+            "Id": 5,
+            "Name": "#41",
+            "Year": 1996,
+            "ArtistId": 2
+          },
+          {
+            "Id": 6,
+            "Name": "Stay or Leave",
+            "Year": 2003,
+            "ArtistId": 2
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 8,
+          "Name": "Jimmy Buffett"
+        },
+        "Songs": [
+          {
+            "Id": 18,
+            "Name": "A Sailor's Christmas",
+            "Year": 1996,
+            "ArtistId": 8
+          },
+          {
+            "Id": 19,
+            "Name": "Barefoot Children",
+            "Year": 1995,
+            "ArtistId": 8
+          },
+          {
+            "Id": 20,
+            "Name": "Changes in Latitudes, Changes in Attitudes",
+            "Year": 1977,
+            "ArtistId": 8
+          },
+          {
+            "Id": 21,
+            "Name": "Distantly in Love",
+            "Year": 1983,
+            "ArtistId": 8
+          },
+          {
+            "Id": 22,
+            "Name": "Honey Do",
+            "Year": 1983,
+            "ArtistId": 8
+          },
+          {
+            "Id": 23,
+            "Name": "Love in the Library",
+            "Year": 1994,
+            "ArtistId": 8
+          },
+          {
+            "Id": 24,
+            "Name": "Margaritaville",
+            "Year": 1977,
+            "ArtistId": 8
+          },
+          {
+            "Id": 25,
+            "Name": "Migration",
+            "Year": 1974,
+            "ArtistId": 8
+          },
+          {
+            "Id": 26,
+            "Name": "The Weather is Here, Wish You Were Beautiful",
+            "Year": 1981,
+            "ArtistId": 8
+          },
+          {
+            "Id": 27,
+            "Name": "Tin Cup Chalice",
+            "Year": 1974,
+            "ArtistId": 8
+          },
+          {
+            "Id": 28,
+            "Name": "Trying to Reason with Hurricane Season",
+            "Year": 1974,
+            "ArtistId": 8
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 10,
+          "Name": "The Lumineers"
+        },
+        "Songs": [
+          {
+            "Id": 36,
+            "Name": "Big Parade",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 37,
+            "Name": "Classy Girls",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 38,
+            "Name": "Dead Sea",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 39,
+            "Name": "Flapper Girl",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 40,
+            "Name": "Flowers in Your Hair",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 41,
+            "Name": "Ho Hey",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 42,
+            "Name": "Stubborn Love",
+            "Year": 2012,
+            "ArtistId": 10
+          },
+          {
+            "Id": 43,
+            "Name": "Submarines",
+            "Year": 2012,
+            "ArtistId": 10
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 36,
+          "Name": "Taylor Swift"
+        },
+        "Songs": [
+          {
+            "Id": 90,
+            "Name": "I Knew You Were Trouble",
+            "Year": 2012,
+            "ArtistId": 36
+          },
+          {
+            "Id": 91,
+            "Name": "Love Story",
+            "Year": 2008,
+            "ArtistId": 36
+          },
+          {
+            "Id": 92,
+            "Name": "We Are Never Ever Getting Back Together",
+            "Year": 2012,
+            "ArtistId": 36
+          },
+          {
+            "Id": 93,
+            "Name": "You Belong With Me",
+            "Year": 2008,
+            "ArtistId": 36
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 38,
+          "Name": "Jason Mraz"
+        },
+        "Songs": [
+          {
+            "Id": 95,
+            "Name": "I Won't Give Up",
+            "Year": 2012,
+            "ArtistId": 38
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 52,
+          "Name": "Bob Dylan"
+        },
+        "Songs": [
+          {
+            "Id": 110,
+            "Name": "Shelter from the Storm",
+            "Year": 1975,
+            "ArtistId": 52
+          },
+          {
+            "Id": 111,
+            "Name": "Tangled Up in Blue",
+            "Year": 1975,
+            "ArtistId": 52
+          },
+          {
+            "Id": 112,
+            "Name": "The Man in Me",
+            "Year": 1970,
+            "ArtistId": 52
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 54,
+          "Name": "David Bowie"
+        },
+        "Songs": [
+          {
+            "Id": 114,
+            "Name": "Space Oddity",
+            "Year": 1969,
+            "ArtistId": 54
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 56,
+          "Name": "Bryan Adams"
+        },
+        "Songs": [
+          {
+            "Id": 116,
+            "Name": "Summer of '69",
+            "Year": 1984,
+            "ArtistId": 56
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "PersonName": "Roger Alvarez",
+    "PersonAge": 52,
+    "FavoriteSong": "Dead Sea",
+    "FavoriteSongArtist": "The Lumineers",
+    "FavoriteSongYear": 2012,
+    "OtherSongs": [
+      "Brown Eyed Girl",
+      "Hotel California",
+      "I Knew You Were Trouble"
+    ],
+    "ArtistSongs": [
+      {
+        "Artist": {
+          "Id": 7,
+          "Name": "Van Morrison"
+        },
+        "Songs": [
+          {
+            "Id": 16,
+            "Name": "And it Stoned Me",
+            "Year": 1970,
+            "ArtistId": 7
+          },
+          {
+            "Id": 17,
+            "Name": "Brown Eyed Girl",
+            "Year": 1967,
+            "ArtistId": 7
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 33,
+          "Name": "The Eagles"
+        },
+        "Songs": [
+          {
+            "Id": 86,
+            "Name": "Hotel California",
+            "Year": 1977,
+            "ArtistId": 33
+          }
+        ]
+      },
+      {
+        "Artist": {
+          "Id": 36,
+          "Name": "Taylor Swift"
+        },
+        "Songs": [
+          {
+            "Id": 90,
+            "Name": "I Knew You Were Trouble",
+            "Year": 2012,
+            "ArtistId": 36
+          },
+          {
+            "Id": 91,
+            "Name": "Love Story",
+            "Year": 2008,
+            "ArtistId": 36
+          },
+          {
+            "Id": 92,
+            "Name": "We Are Never Ever Getting Back Together",
+            "Year": 2012,
+            "ArtistId": 36
+          },
+          {
+            "Id": 93,
+            "Name": "You Belong With Me",
+            "Year": 2008,
+            "ArtistId": 36
+          }
+        ]
+      }
+    ]
+  }
+]

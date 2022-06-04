@@ -1,0 +1,66 @@
+C:/Users/Matheus/OneDrive - Labsit/Documentos/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/bin/Debug/net5.0/AnimatedThread.exe
+C:/Users/Matheus/OneDrive - Labsit/Documentos/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/bin/Debug/net5.0/JsonData/artists.json
+C:/Users/Matheus/OneDrive - Labsit/Documentos/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/bin/Debug/net5.0/JsonData/people_info.json
+C:/Users/Matheus/OneDrive - Labsit/Documentos/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/bin/Debug/net5.0/JsonData/people_songs.json
+C:/Users/Matheus/OneDrive - Labsit/Documentos/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/bin/Debug/net5.0/JsonData/songs.json
+C:/Users/Matheus/OneDrive - Labsit/Documentos/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/bin/Debug/net5.0/AnimatedThread.deps.json
+C:/Users/Matheus/OneDrive - Labsit/Documentos/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/bin/Debug/net5.0/AnimatedThread.runtimeconfig.json
+C:/Users/Matheus/OneDrive - Labsit/Documentos/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/bin/Debug/net5.0/AnimatedThread.runtimeconfig.dev.json
+C:/Users/Matheus/OneDrive - Labsit/Documentos/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/bin/Debug/net5.0/AnimatedThread.dll
+C:/Users/Matheus/OneDrive - Labsit/Documentos/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/bin/Debug/net5.0/ref/AnimatedThread.dll
+C:/Users/Matheus/OneDrive - Labsit/Documentos/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/bin/Debug/net5.0/AnimatedThread.pdb
+C:/Users/Matheus/OneDrive - Labsit/Documentos/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/Matheus/OneDrive - Labsit/Documentos/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/obj/Debug/net5.0/AnimatedThread.csproj.AssemblyReference.cache
+C:/Users/Matheus/OneDrive - Labsit/Documentos/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/obj/Debug/net5.0/AnimatedThread.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Matheus/OneDrive - Labsit/Documentos/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/obj/Debug/net5.0/AnimatedThread.AssemblyInfoInputs.cache
+C:/Users/Matheus/OneDrive - Labsit/Documentos/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/obj/Debug/net5.0/AnimatedThread.AssemblyInfo.cs
+C:/Users/Matheus/OneDrive - Labsit/Documentos/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/obj/Debug/net5.0/AnimatedThread.csproj.CoreCompileInputs.cache
+C:/Users/Matheus/OneDrive - Labsit/Documentos/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/obj/Debug/net5.0/AnimatedThread.csproj.CopyComplete
+C:/Users/Matheus/OneDrive - Labsit/Documentos/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/obj/Debug/net5.0/AnimatedThread.dll
+C:/Users/Matheus/OneDrive - Labsit/Documentos/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/obj/Debug/net5.0/ref/AnimatedThread.dll
+C:/Users/Matheus/OneDrive - Labsit/Documentos/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/obj/Debug/net5.0/AnimatedThread.pdb
+C:/Users/Matheus/OneDrive - Labsit/Documentos/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/obj/Debug/net5.0/AnimatedThread.genruntimeconfig.cache
+/Users/matheus/Desktop/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/obj/Debug/net5.0/AnimatedThread.csproj.AssemblyReference.cache
+/Users/matheus/Desktop/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/obj/Debug/net5.0/AnimatedThread.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matheus/Desktop/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/obj/Debug/net5.0/AnimatedThread.AssemblyInfoInputs.cache
+/Users/matheus/Desktop/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/obj/Debug/net5.0/AnimatedThread.AssemblyInfo.cs
+/Users/matheus/Desktop/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/obj/Debug/net5.0/AnimatedThread.csproj.CoreCompileInputs.cache
+/Users/matheus/Desktop/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/obj/Debug/net5.0/AnimatedThread.dll
+/Users/matheus/Desktop/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/obj/Debug/net5.0/AnimatedThread.pdb
+/Users/matheus/Desktop/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/bin/Debug/net5.0/AnimatedThread
+/Users/matheus/Desktop/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/bin/Debug/net5.0/JsonData/artists.json
+/Users/matheus/Desktop/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/bin/Debug/net5.0/JsonData/people_info.json
+/Users/matheus/Desktop/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/bin/Debug/net5.0/JsonData/people_songs.json
+/Users/matheus/Desktop/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/bin/Debug/net5.0/JsonData/songs.json
+/Users/matheus/Desktop/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/bin/Debug/net5.0/AnimatedThread.deps.json
+/Users/matheus/Desktop/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/bin/Debug/net5.0/AnimatedThread.runtimeconfig.json
+/Users/matheus/Desktop/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/bin/Debug/net5.0/AnimatedThread.runtimeconfig.dev.json
+/Users/matheus/Desktop/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/bin/Debug/net5.0/AnimatedThread.dll
+/Users/matheus/Desktop/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/bin/Debug/net5.0/AnimatedThread.pdb
+/Users/matheus/Desktop/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/matheus/Desktop/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/obj/Debug/net5.0/AnimatedThread.csproj.CopyComplete
+/Users/matheus/Desktop/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/obj/Debug/net5.0/refint/AnimatedThread.dll
+/Users/matheus/Desktop/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/obj/Debug/net5.0/AnimatedThread.genruntimeconfig.cache
+/Users/matheus/Desktop/DEV/programa-de-bolsas-compasso/atividade_multithreading/AnimatedThread/obj/Debug/net5.0/ref/AnimatedThread.dll
+C:\Users\IgorxDiana\Desktop\atividade_multithreading\atividade_multithreading\AnimatedThread\bin\Debug\net5.0\AnimatedThread.exe
+C:\Users\IgorxDiana\Desktop\atividade_multithreading\atividade_multithreading\AnimatedThread\bin\Debug\net5.0\JsonData\artists.json
+C:\Users\IgorxDiana\Desktop\atividade_multithreading\atividade_multithreading\AnimatedThread\bin\Debug\net5.0\JsonData\people_info.json
+C:\Users\IgorxDiana\Desktop\atividade_multithreading\atividade_multithreading\AnimatedThread\bin\Debug\net5.0\JsonData\people_songs.json
+C:\Users\IgorxDiana\Desktop\atividade_multithreading\atividade_multithreading\AnimatedThread\bin\Debug\net5.0\JsonData\songs.json
+C:\Users\IgorxDiana\Desktop\atividade_multithreading\atividade_multithreading\AnimatedThread\bin\Debug\net5.0\AnimatedThread.deps.json
+C:\Users\IgorxDiana\Desktop\atividade_multithreading\atividade_multithreading\AnimatedThread\bin\Debug\net5.0\AnimatedThread.runtimeconfig.json
+C:\Users\IgorxDiana\Desktop\atividade_multithreading\atividade_multithreading\AnimatedThread\bin\Debug\net5.0\AnimatedThread.runtimeconfig.dev.json
+C:\Users\IgorxDiana\Desktop\atividade_multithreading\atividade_multithreading\AnimatedThread\bin\Debug\net5.0\AnimatedThread.dll
+C:\Users\IgorxDiana\Desktop\atividade_multithreading\atividade_multithreading\AnimatedThread\bin\Debug\net5.0\ref\AnimatedThread.dll
+C:\Users\IgorxDiana\Desktop\atividade_multithreading\atividade_multithreading\AnimatedThread\bin\Debug\net5.0\AnimatedThread.pdb
+C:\Users\IgorxDiana\Desktop\atividade_multithreading\atividade_multithreading\AnimatedThread\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\IgorxDiana\Desktop\atividade_multithreading\atividade_multithreading\AnimatedThread\obj\Debug\net5.0\AnimatedThread.csproj.AssemblyReference.cache
+C:\Users\IgorxDiana\Desktop\atividade_multithreading\atividade_multithreading\AnimatedThread\obj\Debug\net5.0\AnimatedThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IgorxDiana\Desktop\atividade_multithreading\atividade_multithreading\AnimatedThread\obj\Debug\net5.0\AnimatedThread.AssemblyInfoInputs.cache
+C:\Users\IgorxDiana\Desktop\atividade_multithreading\atividade_multithreading\AnimatedThread\obj\Debug\net5.0\AnimatedThread.AssemblyInfo.cs
+C:\Users\IgorxDiana\Desktop\atividade_multithreading\atividade_multithreading\AnimatedThread\obj\Debug\net5.0\AnimatedThread.csproj.CoreCompileInputs.cache
+C:\Users\IgorxDiana\Desktop\atividade_multithreading\atividade_multithreading\AnimatedThread\obj\Debug\net5.0\AnimatedThread.csproj.CopyComplete
+C:\Users\IgorxDiana\Desktop\atividade_multithreading\atividade_multithreading\AnimatedThread\obj\Debug\net5.0\AnimatedThread.dll
+C:\Users\IgorxDiana\Desktop\atividade_multithreading\atividade_multithreading\AnimatedThread\obj\Debug\net5.0\ref\AnimatedThread.dll
+C:\Users\IgorxDiana\Desktop\atividade_multithreading\atividade_multithreading\AnimatedThread\obj\Debug\net5.0\AnimatedThread.pdb
+C:\Users\IgorxDiana\Desktop\atividade_multithreading\atividade_multithreading\AnimatedThread\obj\Debug\net5.0\AnimatedThread.genruntimeconfig.cache
