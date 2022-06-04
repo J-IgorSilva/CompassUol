@@ -16,4 +16,8 @@
 
 ### Criar um teste no padrão stub, utilizando o framework moq, lançando uma exceção na inclusão de agendamentos.
 
+>> 1 Resolução -- IncluirAgendamentoInMemoryTest()
 
+>> 2 Resolução -- IncluirAgendamentoExceptionTest()
+
+>> 3 Resolução -- VerifyMethodCall()
